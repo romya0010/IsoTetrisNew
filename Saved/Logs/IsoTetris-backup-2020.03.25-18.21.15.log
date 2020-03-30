@@ -1,0 +1,1713 @@
+﻿Log file open, 03/25/20 20:18:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: IsoTetris
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.073763
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11100242
+LogInit: Engine Version: 4.24.2-11100242+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 24 2020 02:05:53
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.25-18.18.46:719][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Program Files/Google Drive/IsoTetris/Saved/Config/Windows/Engine.ini]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Program Files/Google Drive/IsoTetris/Saved/Config/Windows/Engine.ini]
+[2020.03.25-18.18.46:720][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Program Files/Google Drive/IsoTetris/Saved/Config/Windows/Engine.ini]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Program Files/Google Drive/IsoTetris/Saved/Config/Windows/Engine.ini]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.25-18.18.46:720][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Program Files/Google Drive/IsoTetris/Saved/Config/Windows/Engine.ini]
+[2020.03.25-18.18.46:720][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Program Files/Google Drive/IsoTetris/Saved/Config/Windows/Engine.ini]
+[2020.03.25-18.18.46:725][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Program Files/Google Drive/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Program Files/Google Drive/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Program Files/Google Drive/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Program Files/Google Drive/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.25-18.18.46:725][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Program Files/Google Drive/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Program Files/Google Drive/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Program Files/Google Drive/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Program Files/Google Drive/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.25-18.18.46:726][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.25-18.18.46:726][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.25-18.18.46:726][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.25-18.18.46:729][  0]LogHAL: Display: Platform has ~ 32 GB [34202046464 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.25-18.18.46:729][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.25-18.18.46:729][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Program Files/Google Drive/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Program Files/Google Drive/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Program Files/Google Drive/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Program Files/Google Drive/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.25-18.18.46:729][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Program Files/Google Drive/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Program Files/Google Drive/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Program Files/Google Drive/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Program Files/Google Drive/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.25-18.18.46:730][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.25-18.18.46:731][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.25-18.18.46:731][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.25-18.18.46:731][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Program Files/Google Drive/IsoTetris/Saved/Config/Windows/Engine.ini]
+[2020.03.25-18.18.46:731][  0]LogInit: Computer: LAPTOP-0M3COMF4
+[2020.03.25-18.18.46:731][  0]LogInit: User: rider
+[2020.03.25-18.18.46:731][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.03.25-18.18.46:731][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.25-18.18.46:731][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.03.25-18.18.46:731][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.25-18.18.46:731][  0]LogMemory: Process Physical Memory: 106.16 MB used, 106.16 MB peak
+[2020.03.25-18.18.46:731][  0]LogMemory: Process Virtual Memory: 101.89 MB used, 101.89 MB peak
+[2020.03.25-18.18.46:731][  0]LogMemory: Physical Memory: 12044.63 MB used,  20572.99 MB free, 32617.61 MB total
+[2020.03.25-18.18.46:731][  0]LogMemory: Virtual Memory: 5159.27 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2020.03.25-18.18.46:798][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.03.25-18.18.46:837][  0]LogInit: Using OS detected language (en-GB).
+[2020.03.25-18.18.46:837][  0]LogInit: Using OS detected locale (en-US).
+[2020.03.25-18.18.46:838][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.03.25-18.18.47:008][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.25-18.18.47:049][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.25-18.18.47:050][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.25-18.18.47:233][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.25-18.18.47:233][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.03.25-18.18.47:233][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.03.25-18.18.47:233][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.25-18.18.47:329][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2020.03.25-18.18.47:329][  0]LogD3D11RHI:       8031/0/16308 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.03.25-18.18.47:362][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.03.25-18.18.47:362][  0]LogD3D11RHI:       128/0/16308 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.03.25-18.18.47:366][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.25-18.18.47:366][  0]LogD3D11RHI:       0/0/16308 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.25-18.18.47:366][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.25-18.18.47:420][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.25-18.18.47:420][  0]LogD3D11RHI:     GPU DeviceId: 0x1f10 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.25-18.18.47:420][  0]LogWindows: EnumDisplayDevices:
+[2020.03.25-18.18.47:420][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.03.25-18.18.47:421][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.03.25-18.18.47:421][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.03.25-18.18.47:421][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2020.03.25-18.18.47:422][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.03.25-18.18.47:422][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.03.25-18.18.47:422][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.03.25-18.18.47:423][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.03.25-18.18.47:423][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2020.03.25-18.18.47:423][  0]LogD3D11RHI:   Driver Version: 445.75 (internal:26.21.14.4575, unified:445.75)
+[2020.03.25-18.18.47:423][  0]LogD3D11RHI:      Driver Date: 3-17-2020
+[2020.03.25-18.18.47:423][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2020.03.25-18.18.47:487][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.03.25-18.18.47:487][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.25-18.18.47:528][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.25-18.18.47:877][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.03.25-18.18.47:908][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.03.25-18.18.47:908][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.03.25-18.18.47:908][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.03.25-18.18.47:908][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.03.25-18.18.47:908][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.03.25-18.18.47:908][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.03.25-18.18.47:908][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.03.25-18.18.47:908][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.03.25-18.18.47:908][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.03.25-18.18.47:908][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.25-18.18.47:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.03.25-18.18.47:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.03.25-18.18.47:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.25-18.18.47:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.25-18.18.47:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.25-18.18.47:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.25-18.18.47:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.03.25-18.18.47:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.03.25-18.18.47:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.03.25-18.18.47:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.03.25-18.18.47:935][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.25-18.18.47:942][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.03.25-18.18.47:949][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.03.25-18.18.47:956][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.03.25-18.18.47:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.03.25-18.18.47:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.03.25-18.18.47:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.03.25-18.18.47:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.03.25-18.18.48:007][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.03.25-18.18.48:007][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.03.25-18.18.48:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.25-18.18.48:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.03.25-18.18.48:029][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.03.25-18.18.48:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.03.25-18.18.48:036][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.25-18.18.48:038][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.25-18.18.48:058][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (../../../../../Google Drive/IsoTetris/Intermediate/Shaders/WorkingDirectory/39408/).
+[2020.03.25-18.18.48:058][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/rider/AppData/Local/Temp/UnrealShaderWorkingDir/0560F81A4D9DF3A013921EAB7F831209/'.
+[2020.03.25-18.18.48:058][  0]LogXGEController: Cleaning working directory: C:/Users/rider/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.03.25-18.18.48:059][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.25-18.18.48:059][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.25-18.18.48:059][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.25-18.18.48:902][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.25-18.18.48:960][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/rider/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.25-18.18.48:960][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/rider/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.03.25-18.18.48:960][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Google Drive/IsoTetris/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.25-18.18.48:960][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.25-18.18.48:960][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Google Drive/IsoTetris/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.25-18.18.48:960][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.25-18.18.48:972][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.25-18.18.48:972][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.25-18.18.48:972][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.25-18.18.48:973][  0]LogDerivedDataCache: Using Local data cache path C:/Users/rider/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.25-18.18.48:973][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.25-18.18.48:973][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.25-18.18.49:001][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.25-18.18.49:004][  0]LogSlate: Using FreeType 2.10.0
+[2020.03.25-18.18.49:004][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.25-18.18.49:057][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2020.03.25-18.18.49:350][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.25-18.18.49:513][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.25-18.18.49:513][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.25-18.18.49:513][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.25-18.18.49:513][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.25-18.18.49:513][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.25-18.18.49:529][  0]LogNetVersion: IsoTetris 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2822002020)
+[2020.03.25-18.18.50:592][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.041612 seconds
+[2020.03.25-18.18.50:599][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.03.25-18.18.50:599][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.03.25-18.18.50:599][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.25-18.18.51:000][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.25-18.18.51:003][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.25-18.18.51:055][  0]SourceControl: Source control is disabled
+[2020.03.25-18.18.51:055][  0]SourceControl: Source control is disabled
+[2020.03.25-18.18.51:056][  0]SourceControl: Source control is disabled
+[2020.03.25-18.18.51:057][  0]SourceControl: Source control is disabled
+[2020.03.25-18.18.51:057][  0]SourceControl: Source control is disabled
+[2020.03.25-18.18.51:130][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.25-18.18.51:140][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.25-18.18.51:140][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.25-18.18.51:230][  0]LogOcInput: OculusInput pre-init called
+[2020.03.25-18.18.51:236][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.03.25-18.18.51:236][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.03.25-18.18.51:308][  0]LogEngine: Initializing Engine...
+[2020.03.25-18.18.51:309][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.25-18.18.51:310][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.25-18.18.51:662][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.25-18.18.51:668][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.25-18.18.51:690][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.25-18.18.51:690][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.25-18.18.51:690][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.25-18.18.51:690][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.25-18.18.51:690][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.25-18.18.51:690][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.25-18.18.51:690][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.25-18.18.51:690][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.25-18.18.51:690][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.25-18.18.51:690][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.25-18.18.52:504][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.25-18.18.52:504][  0]LogAudioMixer: Display: Name: Speakers (Logitech USB Headset H540)
+[2020.03.25-18.18.52:504][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.03.25-18.18.52:504][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.25-18.18.52:504][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.25-18.18.52:504][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.25-18.18.52:504][  0]LogAudioMixer: Display: Channel Order:
+[2020.03.25-18.18.52:504][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.25-18.18.52:504][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.03.25-18.18.52:525][  0]LogAudioMixer: Display: Using Audio Device Speakers (Logitech USB Headset H540)
+[2020.03.25-18.18.52:529][  0]LogInit: FAudioDevice initialized.
+[2020.03.25-18.18.52:529][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.25-18.18.52:586][  0]LogDerivedDataCache: Saved boot cache 0.06s 78MB C:/Users/rider/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.25-18.18.52:594][  0]LogInit: Texture streaming: Enabled
+[2020.03.25-18.18.52:605][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.25-18.18.52:605][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.03.25-18.18.52:608][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.03.25-18.18.52:690][  0]LogInit: Transaction tracking system initialized
+[2020.03.25-18.18.52:702][  0]BlueprintLog: New page: Editor Load
+[2020.03.25-18.18.52:736][  0]LocalizationService: Localization service is disabled
+[2020.03.25-18.18.52:771][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.03.25-18.18.52:771][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.03.25-18.18.52:771][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2020.03.25-18.18.53:093][  0]LogFileCache: Scanning file cache for directory 'D:/Program Files/Google Drive/IsoTetris/Content/' took 0.00s
+[2020.03.25-18.18.53:093][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.25-18.18.53:093][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.25-18.18.53:765][  0]SourceControl: Source control is disabled
+[2020.03.25-18.18.53:765][  0]Cmd: MAP LOAD FILE="../../../../../Google Drive/IsoTetris/Content/FlyingBP/Maps/FlyingExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.25-18.18.53:871][  0]LightingResults: New page: Lighting Build
+[2020.03.25-18.18.53:872][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.03.25-18.18.53:872][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.25-18.18.53:872][  0]MapCheck: New page: Map Check
+[2020.03.25-18.18.53:872][  0]LightingResults: New page: Lighting Build
+[2020.03.25-18.18.53:910][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.03.25-18.18.57:672][  0]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2020.03.25-18.18.57:690][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Tom_Backup) is flushing async loading
+[2020.03.25-18.18.57:690][  0]LogStreaming: Display: Flushing async loaders.
+[2020.03.25-18.18.57:710][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/FlyingBP/Maps/Romy) is flushing async loading
+[2020.03.25-18.18.57:717][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/FlyingBP/Maps/Chen) is flushing async loading
+[2020.03.25-18.18.58:774][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/FlyingBP/Maps/Tomer) is flushing async loading
+[2020.03.25-18.18.58:857][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/FlyingBP/Maps/Yosi) is flushing async loading
+[2020.03.25-18.18.58:871][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.25-18.18.58:913][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.03.25-18.18.58:913][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.25-18.18.58:913][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.229ms to complete.
+[2020.03.25-18.18.58:913][  0]LogFileHelpers: Loading map 'FlyingExampleMap' took 5.149
+[2020.03.25-18.18.59:053][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-18.18.59:061][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-18.18.59:070][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-18.18.59:078][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-18.18.59:081][  0]LogCollectionManager: Loaded 0 collections in 0.000918 seconds
+[2020.03.25-18.18.59:094][  0]LogFileCache: Scanning file cache for directory 'D:/Program Files/Google Drive/IsoTetris/Saved/Collections/' took 0.00s
+[2020.03.25-18.18.59:094][  0]LogFileCache: Scanning file cache for directory 'D:/Program Files/Google Drive/IsoTetris/Content/Developers/rider/Collections/' took 0.00s
+[2020.03.25-18.18.59:094][  0]LogFileCache: Scanning file cache for directory 'D:/Program Files/Google Drive/IsoTetris/Content/Collections/' took 0.00s
+[2020.03.25-18.18.59:094][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 3015 classes and 717 folders.
+[2020.03.25-18.18.59:098][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.25-18.18.59:137][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.25-18.18.59:142][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.03.25-18.18.59:256][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.03.25-18.18.59:307][  0]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.25-18.18.59:309][  0]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.25-18.18.59:315][  0]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.25-18.18.59:399][  0]LogRenderer: Reallocating scene render targets to support 892x448 Format 10 NumSamples 1 (Frame:1).
+[2020.03.25-18.18.59:468][  0]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.25-18.18.59:528][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.25-18.18.59:528][  0]LogLoad: (Engine Initialization) Total time: 14.12 seconds
+[2020.03.25-18.18.59:528][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.25-18.18.59:784][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.25-18.18.59:836][  1]LogAssetRegistry: Asset discovery search completed in 10.7798 seconds
+[2020.03.25-18.18.59:840][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000011 seconds (updated 0 objects)
+[2020.03.25-18.19.32:746][440]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.25-18.19.32:782][440]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.25-18.19.32:783][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.25-18.19.32:784][440]PIE: New page: PIE session: FlyingExampleMap (Mar 25, 2020, 10:19:32 PM)
+[2020.03.25-18.19.32:786][440]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.03.25-18.19.32:789][440]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.03.25-18.19.32:789][440]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.25-18.19.32:838][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048549s)
+[2020.03.25-18.19.32:843][440]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2020.03.25-18.19.32:843][440]LogPlayLevel: PIE: World Init took: (0.004696s)
+[2020.03.25-18.19.32:844][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.053942s)
+[2020.03.25-18.19.32:883][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.03.25-18.19.32:884][440]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.25-18.19.32:884][440]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.25-18.19.32:884][440]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.25-18.19.32:884][440]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.25-18.19.32:884][440]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.25-18.19.32:884][440]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.25-18.19.32:884][440]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.25-18.19.32:884][440]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.25-18.19.32:885][440]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.25-18.19.32:885][440]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.25-18.19.32:911][440]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.25-18.19.32:912][440]LogAudioMixer: Display: Name: Speakers (Logitech USB Headset H540)
+[2020.03.25-18.19.32:912][440]LogAudioMixer: Display: Is Default: Yes
+[2020.03.25-18.19.32:912][440]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.25-18.19.32:912][440]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.25-18.19.32:912][440]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.25-18.19.32:912][440]LogAudioMixer: Display: Channel Order:
+[2020.03.25-18.19.32:912][440]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.25-18.19.32:912][440]LogAudioMixer: Display: 1: FrontRight
+[2020.03.25-18.19.32:925][440]LogAudioMixer: Display: Using Audio Device Speakers (Logitech USB Headset H540)
+[2020.03.25-18.19.32:927][440]LogInit: FAudioDevice initialized.
+[2020.03.25-18.19.32:935][440]LogLoad: Game class is 'FlyingGameMode_C'
+[2020.03.25-18.19.32:938][440]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2020.03.25-20.19.32
+[2020.03.25-18.19.32:959][440]LogWorld: Bringing up level for play took: 0.022136
+[2020.03.25-18.19.32:959][440]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.03.25-18.19.33:003][440]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 20 classes and 0 folders.
+[2020.03.25-18.19.33:016][440]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap 0.976
+[2020.03.25-18.19.33:017][440]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.25-18.19.33:019][440]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:021][440]PIE: Warning: Invalid Simulate Options: Body (ShapeTracing_C_0.StaticMeshComponent0 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2020.03.25-18.19.33:081][441]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:244][442]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:269][443]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:288][444]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:308][445]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:328][446]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:348][447]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:368][448]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:389][449]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:415][450]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:439][451]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:465][452]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:491][453]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:519][454]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:546][455]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:563][456]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:579][457]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:596][458]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:612][459]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:629][460]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:645][461]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:662][462]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:678][463]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:695][464]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:712][465]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:728][466]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:745][467]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:764][468]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:782][469]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:796][470]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:813][471]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:838][472]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:857][473]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:875][474]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:895][475]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:913][476]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:930][477]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:946][478]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:962][479]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:979][480]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.33:996][481]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:013][482]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:030][483]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:048][484]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:064][485]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:079][486]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:096][487]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:113][488]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:129][489]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:147][490]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:163][491]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:179][492]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.34:196][493]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.34:213][494]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.34:229][495]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.34:246][496]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.34:263][497]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.34:279][498]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.34:296][499]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.34:312][500]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.34:329][501]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.34:345][502]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.34:362][503]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.34:378][504]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.34:395][505]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.34:412][506]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.34:429][507]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.34:446][508]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.34:462][509]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.34:479][510]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.34:496][511]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.34:512][512]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.34:529][513]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.34:545][514]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.34:562][515]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.34:578][516]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.34:595][517]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:612][518]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:629][519]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:645][520]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:662][521]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:678][522]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:696][523]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:712][524]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:729][525]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:745][526]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:762][527]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:779][528]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:795][529]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:812][530]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:829][531]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:845][532]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:862][533]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:879][534]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:896][535]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:912][536]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:929][537]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:946][538]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:962][539]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:979][540]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.34:996][541]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.35:012][542]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.35:029][543]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.35:045][544]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.35:061][545]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.35:078][546]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.35:095][547]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.35:096][547]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.25-18.19.35:096][547]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.25-18.19.35:096][547]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.25-18.19.35:097][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-18.19.35:097][547]LogWorld: BeginTearingDown for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.25-18.19.35:097][547]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.25-18.19.35:097][547]LogWorld: UWorld::CleanupWorld for FlyingExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.25-18.19.35:097][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.25-18.19.35:104][547]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.25-18.19.35:104][547]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.25-18.19.35:107][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.25-18.19.35:143][547]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.25-18.19.35:146][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-18.19.35:151][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.03.25-18.19.35:235][548]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.03.25-18.19.37:727][690]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.25-18.19.37:738][690]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.25-18.19.37:738][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.25-18.19.37:738][690]PIE: New page: PIE session: FlyingExampleMap (Mar 25, 2020, 10:19:37 PM)
+[2020.03.25-18.19.37:738][690]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.25-18.19.37:754][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015884s)
+[2020.03.25-18.19.37:755][690]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2020.03.25-18.19.37:755][690]LogPlayLevel: PIE: World Init took: (0.001114s)
+[2020.03.25-18.19.37:755][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.017160s)
+[2020.03.25-18.19.37:798][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.03.25-18.19.37:799][690]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.25-18.19.37:799][690]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.25-18.19.37:799][690]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.25-18.19.37:799][690]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.25-18.19.37:799][690]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.25-18.19.37:799][690]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.25-18.19.37:799][690]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.25-18.19.37:799][690]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.25-18.19.37:799][690]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.25-18.19.37:799][690]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.25-18.19.37:828][690]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.25-18.19.37:828][690]LogAudioMixer: Display: Name: Speakers (Logitech USB Headset H540)
+[2020.03.25-18.19.37:828][690]LogAudioMixer: Display: Is Default: Yes
+[2020.03.25-18.19.37:828][690]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.25-18.19.37:828][690]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.25-18.19.37:828][690]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.25-18.19.37:828][690]LogAudioMixer: Display: Channel Order:
+[2020.03.25-18.19.37:828][690]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.25-18.19.37:828][690]LogAudioMixer: Display: 1: FrontRight
+[2020.03.25-18.19.37:841][690]LogAudioMixer: Display: Using Audio Device Speakers (Logitech USB Headset H540)
+[2020.03.25-18.19.37:842][690]LogInit: FAudioDevice initialized.
+[2020.03.25-18.19.37:853][690]LogLoad: Game class is 'FlyingGameMode_C'
+[2020.03.25-18.19.37:856][690]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2020.03.25-20.19.37
+[2020.03.25-18.19.37:856][690]LogWorld: Bringing up level for play took: 0.001901
+[2020.03.25-18.19.37:856][690]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.03.25-18.19.37:858][690]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap -0.183
+[2020.03.25-18.19.37:859][690]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.25-18.19.37:859][690]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.37:859][690]PIE: Warning: Invalid Simulate Options: Body (ShapeTracing_C_0.StaticMeshComponent0 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2020.03.25-18.19.37:898][691]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.37:914][692]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.37:931][693]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.37:946][694]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.37:965][695]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.37:980][696]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.37:997][697]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:013][698]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:030][699]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:046][700]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:063][701]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:080][702]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:096][703]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:113][704]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:130][705]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:147][706]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:164][707]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:180][708]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:197][709]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:214][710]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:230][711]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:247][712]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:263][713]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:280][714]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:296][715]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:313][716]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:330][717]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:347][718]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:363][719]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:380][720]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:397][721]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:413][722]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:430][723]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:447][724]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:464][725]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:481][726]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:497][727]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:514][728]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:530][729]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:547][730]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:563][731]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:580][732]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:596][733]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:613][734]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:632][735]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:647][736]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:663][737]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:680][738]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:697][739]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:715][740]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:730][741]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:747][742]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:764][743]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:780][744]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:797][745]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:814][746]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:831][747]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.38:847][748]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.38:864][749]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.38:881][750]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.38:896][751]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.38:913][752]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.38:930][753]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.38:946][754]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.38:963][755]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.38:980][756]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.38:996][757]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:013][758]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:030][759]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:046][760]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:063][761]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:080][762]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:097][763]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:114][764]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:130][765]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:147][766]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:163][767]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:180][768]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:197][769]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:213][770]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:230][771]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:247][772]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:263][773]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:280][774]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:297][775]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:313][776]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:330][777]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:347][778]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:364][779]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:380][780]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:397][781]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:414][782]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:430][783]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:448][784]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:464][785]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:480][786]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:498][787]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:514][788]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:531][789]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:547][790]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:563][791]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:580][792]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.39:596][793]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.39:613][794]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.39:630][795]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.39:647][796]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.39:664][797]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.39:680][798]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.39:697][799]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.39:714][800]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.39:731][801]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.39:747][802]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.39:763][803]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.39:780][804]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.39:796][805]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.39:813][806]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.39:830][807]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.39:847][808]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.39:848][808]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.25-18.19.39:848][808]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.25-18.19.39:848][808]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.25-18.19.39:849][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-18.19.39:849][808]LogWorld: BeginTearingDown for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.25-18.19.39:849][808]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.25-18.19.39:849][808]LogWorld: UWorld::CleanupWorld for FlyingExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.25-18.19.39:849][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.25-18.19.39:857][808]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.25-18.19.39:857][808]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.25-18.19.39:861][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.25-18.19.39:898][808]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.25-18.19.39:901][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-18.19.39:904][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.03.25-18.19.39:978][810]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.03.25-18.19.44:072][ 46]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.25-18.19.44:080][ 46]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.25-18.19.44:080][ 46]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.25-18.19.44:080][ 46]PIE: New page: PIE session: FlyingExampleMap (Mar 25, 2020, 10:19:44 PM)
+[2020.03.25-18.19.44:080][ 46]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.25-18.19.44:092][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011565s)
+[2020.03.25-18.19.44:092][ 46]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2020.03.25-18.19.44:092][ 46]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2020.03.25-18.19.44:092][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.012547s)
+[2020.03.25-18.19.44:121][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.03.25-18.19.44:122][ 46]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.25-18.19.44:122][ 46]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.25-18.19.44:122][ 46]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.25-18.19.44:122][ 46]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.25-18.19.44:122][ 46]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.25-18.19.44:122][ 46]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.25-18.19.44:122][ 46]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.25-18.19.44:122][ 46]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.25-18.19.44:122][ 46]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.25-18.19.44:122][ 46]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.25-18.19.44:141][ 46]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.25-18.19.44:141][ 46]LogAudioMixer: Display: Name: Speakers (Logitech USB Headset H540)
+[2020.03.25-18.19.44:141][ 46]LogAudioMixer: Display: Is Default: Yes
+[2020.03.25-18.19.44:142][ 46]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.25-18.19.44:142][ 46]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.25-18.19.44:142][ 46]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.25-18.19.44:142][ 46]LogAudioMixer: Display: Channel Order:
+[2020.03.25-18.19.44:142][ 46]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.25-18.19.44:142][ 46]LogAudioMixer: Display: 1: FrontRight
+[2020.03.25-18.19.44:152][ 46]LogAudioMixer: Display: Using Audio Device Speakers (Logitech USB Headset H540)
+[2020.03.25-18.19.44:153][ 46]LogInit: FAudioDevice initialized.
+[2020.03.25-18.19.44:159][ 46]LogLoad: Game class is 'FlyingGameMode_C'
+[2020.03.25-18.19.44:161][ 46]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2020.03.25-20.19.44
+[2020.03.25-18.19.44:161][ 46]LogWorld: Bringing up level for play took: 0.001468
+[2020.03.25-18.19.44:161][ 46]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.03.25-18.19.44:163][ 46]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap 0.122
+[2020.03.25-18.19.44:163][ 46]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.25-18.19.44:163][ 46]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:163][ 46]PIE: Warning: Invalid Simulate Options: Body (ShapeTracing_C_0.StaticMeshComponent0 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2020.03.25-18.19.44:193][ 47]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:209][ 48]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:226][ 49]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:243][ 50]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:260][ 51]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:276][ 52]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:293][ 53]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:310][ 54]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:326][ 55]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:343][ 56]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:360][ 57]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:376][ 58]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:393][ 59]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:410][ 60]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:426][ 61]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:443][ 62]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:460][ 63]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:477][ 64]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:493][ 65]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:511][ 66]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:528][ 67]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:543][ 68]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:560][ 69]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:576][ 70]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:593][ 71]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:609][ 72]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:626][ 73]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:643][ 74]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:660][ 75]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:678][ 76]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:693][ 77]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:710][ 78]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:727][ 79]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:743][ 80]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:760][ 81]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:778][ 82]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:793][ 83]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:810][ 84]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:827][ 85]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:843][ 86]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:860][ 87]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:876][ 88]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:893][ 89]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:909][ 90]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:926][ 91]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.44:943][ 92]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.44:960][ 93]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.44:976][ 94]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.44:993][ 95]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:010][ 96]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:026][ 97]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:043][ 98]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:059][ 99]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:076][100]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:093][101]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:109][102]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:126][103]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:143][104]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:159][105]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:176][106]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:193][107]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:210][108]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:226][109]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:243][110]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:261][111]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:277][112]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:293][113]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:310][114]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:327][115]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:343][116]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:360][117]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:376][118]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:392][119]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:409][120]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:426][121]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:442][122]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:459][123]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:476][124]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:492][125]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:509][126]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:526][127]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:543][128]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:559][129]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:576][130]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:593][131]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:610][132]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:627][133]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.19.45:628][133]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.25-18.19.45:628][133]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.25-18.19.45:628][133]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.25-18.19.45:628][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-18.19.45:628][133]LogWorld: BeginTearingDown for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.25-18.19.45:628][133]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.25-18.19.45:628][133]LogWorld: UWorld::CleanupWorld for FlyingExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.25-18.19.45:628][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.25-18.19.45:639][133]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.25-18.19.45:640][133]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.25-18.19.45:643][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.25-18.19.45:679][133]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.25-18.19.45:682][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-18.19.45:685][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.03.25-18.19.45:734][134]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.03.25-18.19.49:764][370]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.25-18.19.49:775][370]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.25-18.19.49:775][370]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.25-18.19.49:775][370]PIE: New page: PIE session: FlyingExampleMap (Mar 25, 2020, 10:19:49 PM)
+[2020.03.25-18.19.49:775][370]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.25-18.19.49:791][370]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015117s)
+[2020.03.25-18.19.49:792][370]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2020.03.25-18.19.49:792][370]LogPlayLevel: PIE: World Init took: (0.001101s)
+[2020.03.25-18.19.49:792][370]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.016379s)
+[2020.03.25-18.19.49:828][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.03.25-18.19.49:829][370]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.25-18.19.49:829][370]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.25-18.19.49:829][370]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.25-18.19.49:829][370]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.25-18.19.49:829][370]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.25-18.19.49:829][370]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.25-18.19.49:829][370]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.25-18.19.49:829][370]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.25-18.19.49:830][370]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.25-18.19.49:830][370]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.25-18.19.49:856][370]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.25-18.19.49:856][370]LogAudioMixer: Display: Name: Speakers (Logitech USB Headset H540)
+[2020.03.25-18.19.49:856][370]LogAudioMixer: Display: Is Default: Yes
+[2020.03.25-18.19.49:856][370]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.25-18.19.49:856][370]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.25-18.19.49:856][370]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.25-18.19.49:856][370]LogAudioMixer: Display: Channel Order:
+[2020.03.25-18.19.49:856][370]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.25-18.19.49:856][370]LogAudioMixer: Display: 1: FrontRight
+[2020.03.25-18.19.49:869][370]LogAudioMixer: Display: Using Audio Device Speakers (Logitech USB Headset H540)
+[2020.03.25-18.19.49:870][370]LogInit: FAudioDevice initialized.
+[2020.03.25-18.19.49:876][370]LogLoad: Game class is 'FlyingGameMode_C'
+[2020.03.25-18.19.49:879][370]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2020.03.25-20.19.49
+[2020.03.25-18.19.49:879][370]LogWorld: Bringing up level for play took: 0.001863
+[2020.03.25-18.19.49:879][370]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.03.25-18.19.49:881][370]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap -0.16
+[2020.03.25-18.19.49:881][370]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.25-18.19.49:882][370]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.49:882][370]PIE: Warning: Invalid Simulate Options: Body (ShapeTracing_C_0.StaticMeshComponent0 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2020.03.25-18.19.49:919][371]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.49:935][372]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.49:952][373]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.49:969][374]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.49:986][375]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:003][376]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:019][377]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:036][378]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:052][379]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:069][380]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:086][381]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:102][382]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:119][383]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:136][384]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:153][385]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:169][386]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:185][387]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:202][388]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:219][389]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:235][390]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:252][391]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:269][392]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:286][393]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:302][394]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:319][395]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:336][396]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:353][397]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:369][398]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:386][399]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:403][400]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:419][401]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:437][402]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:454][403]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:468][404]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:486][405]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:503][406]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:519][407]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:536][408]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:552][409]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:568][410]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:585][411]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:603][412]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:619][413]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:636][414]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:655][415]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:669][416]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:686][417]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:703][418]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:719][419]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:736][420]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:753][421]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:769][422]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:786][423]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:802][424]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:819][425]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:836][426]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:853][427]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:869][428]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:889][429]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:904][430]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:919][431]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:936][432]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:952][433]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:969][434]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.50:986][435]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.51:002][436]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.51:019][437]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.51:036][438]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.51:052][439]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.51:069][440]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.51:086][441]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.51:102][442]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.51:120][443]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.51:145][444]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.51:154][445]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.51:172][446]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.51:190][447]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.51:205][448]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.51:222][449]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.51:239][450]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.51:255][451]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.51:337][456]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.19.51:338][456]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.25-18.19.51:338][456]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.25-18.19.51:338][456]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.25-18.19.51:338][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-18.19.51:338][456]LogWorld: BeginTearingDown for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.25-18.19.51:338][456]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.25-18.19.51:338][456]LogWorld: UWorld::CleanupWorld for FlyingExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.25-18.19.51:338][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.25-18.19.51:349][456]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.25-18.19.51:349][456]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.25-18.19.51:352][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.25-18.19.51:388][456]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.25-18.19.51:391][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-18.19.51:394][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.03.25-18.19.51:446][457]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.03.25-18.19.57:577][815]LogEditorViewport: Clicking on Actor (LMB): FlyingPawn_C (FlyingPawn)
+[2020.03.25-18.20.12:408][688]LogEditorViewport: Clicking on Actor (context menu): FlyingPawn_C (FlyingPawn)
+[2020.03.25-18.20.15:599][871]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.25-18.20.15:624][871]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FlyingBP/Blueprints/FlyingPawn.FlyingPawn
+[2020.03.25-18.20.15:797][871]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.03.25-18.20.16:746][871]LogSlate: Took 0.006473 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.25-18.20.19:744][ 27]LogSlate: Took 0.005892 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.25-18.20.20:530][ 66]LogRenderer: Reallocating scene render targets to support 1192x692 Format 10 NumSamples 1 (Frame:1).
+[2020.03.25-18.20.23:237][223]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.25-18.20.23:248][223]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.25-18.20.23:248][223]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.25-18.20.23:248][223]PIE: New page: PIE session: FlyingExampleMap (Mar 25, 2020, 10:20:23 PM)
+[2020.03.25-18.20.23:248][223]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.25-18.20.23:264][223]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015396s)
+[2020.03.25-18.20.23:265][223]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2020.03.25-18.20.23:265][223]LogPlayLevel: PIE: World Init took: (0.001437s)
+[2020.03.25-18.20.23:265][223]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.017031s)
+[2020.03.25-18.20.23:308][223]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.03.25-18.20.23:310][223]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.25-18.20.23:310][223]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.25-18.20.23:310][223]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.25-18.20.23:310][223]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.25-18.20.23:310][223]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.25-18.20.23:310][223]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.25-18.20.23:310][223]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.25-18.20.23:310][223]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.25-18.20.23:310][223]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.25-18.20.23:310][223]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.25-18.20.23:335][223]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.25-18.20.23:335][223]LogAudioMixer: Display: Name: Speakers (Logitech USB Headset H540)
+[2020.03.25-18.20.23:335][223]LogAudioMixer: Display: Is Default: Yes
+[2020.03.25-18.20.23:335][223]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.25-18.20.23:335][223]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.25-18.20.23:336][223]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.25-18.20.23:336][223]LogAudioMixer: Display: Channel Order:
+[2020.03.25-18.20.23:336][223]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.25-18.20.23:336][223]LogAudioMixer: Display: 1: FrontRight
+[2020.03.25-18.20.23:348][223]LogAudioMixer: Display: Using Audio Device Speakers (Logitech USB Headset H540)
+[2020.03.25-18.20.23:350][223]LogInit: FAudioDevice initialized.
+[2020.03.25-18.20.23:361][223]LogLoad: Game class is 'FlyingGameMode_C'
+[2020.03.25-18.20.23:364][223]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2020.03.25-20.20.23
+[2020.03.25-18.20.23:364][223]LogWorld: Bringing up level for play took: 0.001730
+[2020.03.25-18.20.23:364][223]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.03.25-18.20.23:366][223]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap -0.675
+[2020.03.25-18.20.23:367][223]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.25-18.20.23:367][223]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:367][223]PIE: Warning: Invalid Simulate Options: Body (ShapeTracing_C_0.StaticMeshComponent0 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2020.03.25-18.20.23:420][224]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:436][225]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:452][226]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:469][227]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:485][228]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:502][229]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:519][230]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:535][231]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:551][232]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:568][233]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:585][234]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:601][235]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:618][236]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:635][237]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:652][238]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:673][239]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:687][240]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:703][241]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:720][242]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:737][243]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:754][244]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:770][245]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:787][246]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:804][247]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:821][248]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:837][249]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:854][250]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:871][251]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:888][252]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:906][253]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:924][254]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:939][255]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:956][256]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:972][257]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.23:988][258]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:004][259]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:018][260]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:035][261]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:052][262]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:069][263]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:086][264]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:103][265]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:119][266]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:136][267]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:153][268]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:171][269]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:186][270]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:203][271]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:219][272]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:242][273]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:257][274]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:275][275]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:290][276]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:312][277]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:328][278]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:345][279]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:361][280]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:377][281]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:394][282]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:410][283]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:427][284]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:444][285]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:460][286]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:560][292]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.24:561][292]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.25-18.20.24:561][292]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.25-18.20.24:561][292]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.25-18.20.24:561][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-18.20.24:561][292]LogWorld: BeginTearingDown for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.25-18.20.24:561][292]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.25-18.20.24:562][292]LogWorld: UWorld::CleanupWorld for FlyingExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.25-18.20.24:562][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.25-18.20.24:591][292]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.25-18.20.24:591][292]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.25-18.20.24:595][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.25-18.20.24:638][292]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.25-18.20.24:641][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-18.20.24:646][292]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.03.25-18.20.24:723][293]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.03.25-18.20.25:428][321]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FlyingBP/Blueprints/FlyingPawnRomy.FlyingPawnRomy
+[2020.03.25-18.20.34:920][818]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.25-18.20.34:935][818]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.25-18.20.34:935][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.25-18.20.34:935][818]PIE: New page: PIE session: FlyingExampleMap (Mar 25, 2020, 10:20:34 PM)
+[2020.03.25-18.20.34:936][818]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.25-18.20.34:951][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015094s)
+[2020.03.25-18.20.34:952][818]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2020.03.25-18.20.34:952][818]LogPlayLevel: PIE: World Init took: (0.001117s)
+[2020.03.25-18.20.34:952][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.016370s)
+[2020.03.25-18.20.34:997][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.03.25-18.20.34:999][818]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.25-18.20.34:999][818]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.25-18.20.34:999][818]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.25-18.20.34:999][818]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.25-18.20.34:999][818]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.25-18.20.34:999][818]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.25-18.20.34:999][818]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.25-18.20.34:999][818]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.25-18.20.34:999][818]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.25-18.20.34:999][818]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.25-18.20.35:025][818]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.25-18.20.35:025][818]LogAudioMixer: Display: Name: Speakers (Logitech USB Headset H540)
+[2020.03.25-18.20.35:025][818]LogAudioMixer: Display: Is Default: Yes
+[2020.03.25-18.20.35:025][818]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.25-18.20.35:025][818]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.25-18.20.35:025][818]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.25-18.20.35:025][818]LogAudioMixer: Display: Channel Order:
+[2020.03.25-18.20.35:025][818]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.25-18.20.35:025][818]LogAudioMixer: Display: 1: FrontRight
+[2020.03.25-18.20.35:038][818]LogAudioMixer: Display: Using Audio Device Speakers (Logitech USB Headset H540)
+[2020.03.25-18.20.35:040][818]LogInit: FAudioDevice initialized.
+[2020.03.25-18.20.35:049][818]LogLoad: Game class is 'FlyingGameMode_C'
+[2020.03.25-18.20.35:052][818]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2020.03.25-20.20.35
+[2020.03.25-18.20.35:052][818]LogWorld: Bringing up level for play took: 0.001864
+[2020.03.25-18.20.35:052][818]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.03.25-18.20.35:054][818]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap 1.013
+[2020.03.25-18.20.35:055][818]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.25-18.20.35:055][818]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:055][818]PIE: Warning: Invalid Simulate Options: Body (ShapeTracing_C_0.StaticMeshComponent0 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2020.03.25-18.20.35:101][819]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:116][820]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:134][821]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:150][822]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:167][823]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:183][824]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:200][825]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:217][826]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:233][827]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:249][828]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:266][829]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:283][830]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:299][831]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:316][832]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:333][833]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:349][834]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:366][835]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:383][836]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:400][837]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:421][838]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:434][839]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:450][840]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:467][841]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:483][842]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:501][843]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:516][844]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:533][845]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:549][846]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:566][847]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:583][848]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:599][849]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:616][850]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:633][851]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:649][852]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.35:667][853]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.35:683][854]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.35:699][855]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.35:719][856]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.35:733][857]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.35:750][858]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.35:766][859]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.35:783][860]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.35:800][861]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.35:817][862]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.35:833][863]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.35:850][864]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.35:866][865]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.35:883][866]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.35:900][867]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.35:916][868]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.35:933][869]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.35:949][870]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.35:966][871]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.35:983][872]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:000][873]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:016][874]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:033][875]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:050][876]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:065][877]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:082][878]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:099][879]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:116][880]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:133][881]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:149][882]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:168][883]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:183][884]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:200][885]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:216][886]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:233][887]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:249][888]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:266][889]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:283][890]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:299][891]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:316][892]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:333][893]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:350][894]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.36:367][895]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.36:383][896]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.36:400][897]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.36:417][898]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.36:433][899]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.36:450][900]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.36:467][901]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.36:483][902]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.36:500][903]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.36:516][904]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.36:534][905]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.36:550][906]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.36:567][907]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.36:583][908]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.36:600][909]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.36:616][910]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.36:632][911]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.36:649][912]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.36:666][913]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.36:683][914]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:699][915]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:718][916]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:733][917]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:750][918]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:766][919]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:783][920]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:800][921]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:816][922]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:833][923]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:850][924]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:866][925]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:883][926]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:900][927]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:916][928]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:933][929]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:950][930]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:966][931]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.36:983][932]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:000][933]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:016][934]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:033][935]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:050][936]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:066][937]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:083][938]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:100][939]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:116][940]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.37:133][941]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.37:149][942]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.37:167][943]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.37:183][944]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.37:200][945]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.37:217][946]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.37:233][947]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:250][948]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:266][949]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:283][950]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:301][951]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:317][952]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:333][953]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:351][954]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:366][955]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:383][956]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:399][957]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:416][958]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:433][959]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:449][960]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:466][961]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:483][962]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:500][963]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:516][964]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:533][965]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:550][966]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:566][967]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:583][968]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:599][969]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:616][970]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:633][971]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:649][972]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:666][973]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:682][974]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:701][975]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:716][976]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:733][977]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:749][978]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:766][979]LogBlueprintUserMessages: [FlyingPawn_297] 
+[2020.03.25-18.20.37:783][980]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.37:799][981]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.37:816][982]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.37:833][983]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.37:849][984]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.37:867][985]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.37:882][986]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.37:899][987]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.37:917][988]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.37:933][989]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.37:949][990]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.37:966][991]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.37:988][992]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:004][993]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:020][994]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:037][995]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:054][996]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:071][997]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:087][998]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:104][999]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:120][  0]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:139][  1]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:154][  2]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:172][  3]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:187][  4]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:204][  5]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:220][  6]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:237][  7]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:254][  8]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:271][  9]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:288][ 10]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:306][ 11]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:320][ 12]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:337][ 13]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:354][ 14]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:371][ 15]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:387][ 16]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:405][ 17]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:420][ 18]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:437][ 19]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:453][ 20]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:470][ 21]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:487][ 22]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:505][ 23]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:521][ 24]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:537][ 25]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:553][ 26]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:570][ 27]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:587][ 28]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:603][ 29]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:620][ 30]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:637][ 31]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:654][ 32]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:670][ 33]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:687][ 34]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:704][ 35]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:721][ 36]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:737][ 37]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:754][ 38]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:771][ 39]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:787][ 40]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:804][ 41]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:821][ 42]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:837][ 43]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:853][ 44]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:870][ 45]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:886][ 46]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:903][ 47]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:920][ 48]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:936][ 49]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:953][ 50]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:971][ 51]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.38:987][ 52]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:004][ 53]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:021][ 54]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:037][ 55]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:054][ 56]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:070][ 57]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:087][ 58]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:103][ 59]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:120][ 60]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:137][ 61]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:154][ 62]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:170][ 63]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:187][ 64]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:204][ 65]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:221][ 66]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:237][ 67]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:254][ 68]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:270][ 69]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:287][ 70]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:304][ 71]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:321][ 72]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:337][ 73]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:354][ 74]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:371][ 75]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:388][ 76]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:404][ 77]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:421][ 78]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:437][ 79]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:453][ 80]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:470][ 81]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:487][ 82]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:504][ 83]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:520][ 84]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:537][ 85]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:554][ 86]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:570][ 87]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:587][ 88]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:604][ 89]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:620][ 90]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:638][ 91]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:654][ 92]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:671][ 93]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:687][ 94]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:704][ 95]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:721][ 96]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:737][ 97]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:755][ 98]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:771][ 99]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:787][100]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:804][101]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:820][102]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:837][103]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:854][104]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:870][105]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:889][106]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:904][107]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:921][108]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:937][109]LogBlueprintUserMessages: [FlyingPawn_297] Platform
+[2020.03.25-18.20.39:938][109]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.25-18.20.39:939][109]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.25-18.20.39:939][109]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.25-18.20.39:939][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-18.20.39:939][109]LogWorld: BeginTearingDown for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2020.03.25-18.20.39:939][109]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.25-18.20.39:939][109]LogWorld: UWorld::CleanupWorld for FlyingExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.25-18.20.39:939][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.25-18.20.39:948][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.25-18.20.39:948][109]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2020.03.25-18.20.39:952][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.25-18.20.39:996][109]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.25-18.20.39:999][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-18.20.40:003][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.03.25-18.20.40:059][110]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.03.25-18.20.54:113][704]LogEditorViewport: Clicking on Actor (LMB): FlyingPawn_C (FlyingPawn)
+[2020.03.25-18.20.56:274][829]LogSlate: Window 'Message Log' being destroyed
+[2020.03.25-18.20.56:284][829]LogSlate: Window 'Message Log' being destroyed
+[2020.03.25-18.21.15:899][996]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.03.25-18.21.15:899][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
